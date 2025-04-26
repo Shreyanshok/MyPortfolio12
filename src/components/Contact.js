@@ -155,7 +155,6 @@ const ContactForm = () => {
           Your message has been sent successfully! I&apos;ll get back to you soon.
         </div>
       )}
-
       {submitStatus === 'error' && (
         <div className="p-4 bg-red-100 dark:bg-red-800 text-red-700 dark:text-red-200 rounded-md">
           {errorMessage}
