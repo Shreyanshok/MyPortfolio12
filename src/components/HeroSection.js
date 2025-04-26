@@ -71,7 +71,7 @@ const HeroSection = () => {
               <div className="absolute inset-0 bg-blue-600 dark:bg-violet-600 rounded-full blur-xl opacity-20 animate-pulse"></div>
               <div className="relative rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
                 <Image 
-                  src="/profile.jpg" 
+                  src="/Profile.jpg" 
                   alt="Rachit Gupta" 
                   width={400} 
                   height={400} 
