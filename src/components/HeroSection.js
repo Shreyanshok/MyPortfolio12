@@ -42,14 +42,14 @@ const HeroSection = () => {
           <div className="flex-1 text-center lg:text-left lg:ml-10 lg:w-[850px] ">
             <h2 className="text-xl font-medium text-blue-600 dark:text-violet-400 mb-2">Hello!</h2>
             <h1 className="text-4xl sm:text-5xl md:text-5xl font-bold text-gray-900 dark:text-white mb-2">
-              I'm Rachit Gupta
+              I&apos;m Rachit Gupta
             </h1>
             <div className="text-[27px] sm:text-3xl md:text-4xl font-bold text-gray-800 dark:text-gray-200 mb-6">
               <span className="mr-2 ">Skilled in</span>
               <span  ref={typedElementRef} className="text-blue-600 dark:text-violet-400"></span>
             </div>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 max-w-xl mx-auto lg:mx-0">
-              Passionate about creating beautiful, functional, and user-friendly digital experiences. Let's build something amazing together!
+              Passionate about creating beautiful, functional, and user-friendly digital experiences. Let&apos;s build something amazing together!
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <button

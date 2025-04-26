@@ -52,7 +52,7 @@ export const projects = [
       technologies: ['NextJs', 'ReactJs' ,'Tailwind CSS', 'JavaScript'],
       image: '/projects/facebook.png',
       githubLink: 'https://github.com/Rachit3784/face-book-ui',
-      liveLink: 'https://face-book-ui-rachit384-np4cixu4d.vercel.app/',
+      liveLink: 'https://face-book-ui-i9dp.vercel.app/',
       video : ""
     },
   ];

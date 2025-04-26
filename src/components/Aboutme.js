@@ -15,11 +15,11 @@ const AboutMe = () => {
               Rachit Gupta
             </h3>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
-              I'm a passionate Full Stack Developer and a B.Tech CSE student at Gyan Ganga College of Technology, currently in my 3rd year. I specialize in both front-end and back-end development with hands-on experience in React.js, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, and Firebase.
+              I&apos;m a passionate Full Stack Developer and a B.Tech CSE student at Gyan Ganga College of Technology, currently in my 3rd year. I specialize in both front-end and back-end development with hands-on experience in React.js, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, and Firebase.
               <br /><br />
               I also work on native and cross-platform mobile apps using Java, Android Studio, XML, and React Native. With strong logical and analytical thinking skills, I enjoy solving complex problems and continuously learning new technologies like Redux, C++, and Python.
               <br /><br />
-              I'm actively seeking internship and job opportunities where I can contribute to real-world projects, sharpen my skills, and build a strong professional foundation in the tech industry.
+              I&apos;m actively seeking internship and job opportunities where I can contribute to real-world projects, sharpen my skills, and build a strong professional foundation in the tech industry.
             </p>
           </div>
 

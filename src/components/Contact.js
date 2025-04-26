@@ -152,7 +152,7 @@ const ContactForm = () => {
       
       {submitStatus === 'success' && (
         <div className="p-4 bg-green-100 dark:bg-green-800 text-green-700 dark:text-green-200 rounded-md">
-          Your message has been sent successfully! I'll get back to you soon.
+          Your message has been sent successfully! I&apos;ll get back to you soon.
         </div>
       )}
 
