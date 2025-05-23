@@ -20,8 +20,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: 'Rachit Gupta - Software Developer',
-  description: 'Portfolio website of Rachit Gupta, a software developer specializing in web and app development.',
+  title: 'Shreyansh Mishra - Software Developer',
+  description: 'Portfolio website of Shreyansh Mishra, a software developer specializing in web and app development.',
 };
 
 export default function RootLayout({ children }) {

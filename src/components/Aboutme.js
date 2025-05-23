@@ -12,7 +12,7 @@ const AboutMe = () => {
           {/* Left Side (Name and Bio) */}
           <div className="flex-1 p-6 max-w-2xl mx-auto md:mx-0 text-center md:text-left">
             <h3 className="text-3xl font-bold text-gray-900 dark:text-white mb-4">
-              Rachit Gupta
+              Shreyansh Mishra
             </h3>
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">
               I&apos;m a passionate Full Stack Developer and a B.Tech CSE student at Gyan Ganga College of Technology, currently in my 3rd year. I specialize in both front-end and back-end development with hands-on experience in React.js, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, and Firebase.
@@ -31,7 +31,7 @@ const AboutMe = () => {
               className="rounded-full overflow-hidden mb-6 w-40 h-40 bg-gray-100 dark:bg-gray-700"
             >
               <img 
-                src="/Profile.jpg" 
+                src="/ShreyanshMishra.jpg" 
                 alt="Your Image" 
                 className="object-cover w-full h-full"
               />

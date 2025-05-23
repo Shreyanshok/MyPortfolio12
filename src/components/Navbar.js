@@ -77,8 +77,8 @@ const Navbar = () => {
               <div className="absolute bg-blue-600 dark:bg-violet-600 rounded-full blur-xl opacity-20 animate-pulse"></div>
               <div className="relative rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
                 <Image
-                  src="/Profile.jpg"
-                  alt="Rachit Gupta"
+                  src="/ShreyanshMishra.jpg"
+                  alt="Shreyansh Mishra"
                   width={45}
                   height={45}
                   className="object-cover"

@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <h2 className="text-2xl font-bold text-blue-500 dark:text-violet-400">Rachit Gupta</h2>
+            <h2 className="text-2xl font-bold text-blue-500 dark:text-violet-400">Shreyansh Mishra</h2>
             <p className="text-gray-400 mt-2 max-w-md">
               Software Developer specialized in creating beautiful and functional web and mobile applications.
             </p>
@@ -52,7 +52,7 @@ const Footer = () => {
         
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            &copy; {currentYear} Rachit Gupta. All rights reserved.
+            &copy; {currentYear} Shreyansh Mishra. All rights reserved.
           </p>
           
           <div className="mt-4 md:mt-0">

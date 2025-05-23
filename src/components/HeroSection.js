@@ -42,7 +42,7 @@ const HeroSection = () => {
           <div className="flex-1 text-center lg:text-left lg:ml-10 lg:w-[850px] ">
             <h2 className="text-xl font-medium text-blue-600 dark:text-violet-400 mb-2">Hello!</h2>
             <h1 className="text-4xl sm:text-5xl md:text-5xl font-bold text-gray-900 dark:text-white mb-2">
-              I&apos;m Rachit Gupta
+              I&apos;m Shreyansh Mishra
             </h1>
             <div className="text-[27px] sm:text-3xl md:text-4xl font-bold text-gray-800 dark:text-gray-200 mb-6">
               <span className="mr-2 ">Skilled in</span>
@@ -71,8 +71,8 @@ const HeroSection = () => {
               <div className="absolute inset-0 bg-blue-600 dark:bg-violet-600 rounded-full blur-xl opacity-20 animate-pulse"></div>
               <div className="relative rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-xl">
                 <Image 
-                  src="/Profile.jpg" 
-                  alt="Rachit Gupta" 
+                  src="/ShreyanshMishra.jpg" 
+                  alt="Shreyansh Mishra" 
                   width={400} 
                   height={400} 
                   className="object-cover"
