@@ -8,35 +8,35 @@ const socialLinks = [
   {
     name: 'WhatsApp',
     icon: FaWhatsapp,
-    link: 'https://wa.me/918817998451',
+    link: 'https://wa.me/917803919680',
     color: 'bg-green-500',
     hoverColor: 'hover:bg-green-600'
   },
   {
     name: 'Email',
     icon: FaEnvelope,
-    link: 'mailto:grachit736@gmail.com',
+    link: 'mailto:shreyansh.ok@gmail.com',
     color: 'bg-red-500',
     hoverColor: 'hover:bg-red-600'
   },
   {
     name: 'LinkedIn',
     icon: FaLinkedin,
-    link: 'https://www.linkedin.com/in/rachit-gupta-099999261',
+    link: 'https://in.linkedin.com/in/shreyansh-mishra-0793a6291?trk=people-guest_people_search-card ',
     color: 'bg-blue-600',
     hoverColor: 'hover:bg-blue-700'
   },
   {
     name: 'Instagram',
     icon: FaInstagram,
-    link: 'https://www.instagram.com/rac_hit384/',
+    link: 'https://www.instagram.com/shreyansh_.11?igsh=MXExNnpoaTFxMHprNw%3D%3D&utm_source=qr ',
     color: 'bg-pink-600',
     hoverColor: 'hover:bg-pink-700'
   },
   {
     name: 'GitHub',
     icon: FaGithub,
-    link: 'https://github.com/Rachit3784',
+    link: 'https://github.com/Shreyanshok',
     color: 'bg-gray-800',
     hoverColor: 'hover:bg-gray-900'
   }
