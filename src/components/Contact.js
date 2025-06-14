@@ -1,4 +1,4 @@
-// components/Contact.js
+
 "use client";
 import React, { useState } from 'react';
 import { FaWhatsapp, FaEnvelope, FaLinkedin, FaInstagram, FaGithub } from 'react-icons/fa';
